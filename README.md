@@ -15,19 +15,19 @@ git clone https://github.com/jamesjamal/Project2-udacity-RSE.git
 
 check for the depends using 
 
-rosdep check <package name>
+`rosdep check <package name>`
   
-install the depend using 
+`install the depend using` 
 
-rosdep install -i <package name>
+`rosdep install -i <package name>`
   
   
 # launch the file using commands
 
-roslaunch my_robot world.launch 
+`roslaunch my_robot world.launch` 
 
 
-roslaunch ball_chaser ball_chaser.launch 
+`roslaunch ball_chaser ball_chaser.launch` 
 
 
 
